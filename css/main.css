@@ -707,6 +707,10 @@ About Page
 
 }
 
+.map figure {
+  padding-bottom: 55%;
+}
+
 .contact-section .content-wrapper h2 {
   width: 80%;
 
@@ -828,6 +832,11 @@ About Page
   font-size: 3rem;
 
 }
+
+.map figure {
+  padding-bottom: 36.5%;
+}
+
 .contact-content h4 {
   font-size: 1.875em;
 }
